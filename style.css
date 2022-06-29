@@ -1,0 +1,78 @@
+.btn-green{
+    color: #fff !important;
+    background-color: #1ba548;
+    border-radius: 20px;
+    border-color: #1ba548;
+}
+.btn-green:hover{
+    color: #fff;
+    background-color: #11472E;
+    border-color: #11472E;
+}
+.btn-green-close{
+    color: #fff;
+    background-color: #11472E;
+    border-color: #11472E;
+    border-radius: 20px;
+}
+.cont-of-dest {
+    padding: 1em;
+}
+
+p.card-text {
+    text-align: left;
+    font-size: medium;
+}
+
+.card img {
+    width: 100%;
+}
+
+.card-body h3 {
+    font-size: large;
+    border-bottom: 1px solid #1ba548;
+    padding-bottom: 5px;
+    font-weight: 900;
+    color: #1ba548;
+}
+
+.modal-body p{
+    text-align: left;
+    font-size: medium;
+}
+.modal-body li{
+    text-align: left;
+    font-size: medium;
+}
+.modal-body ul{
+    list-style: none;
+}
+
+.modal-body ul li:before{
+    content: "";
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    background: transparent url(/convenios-alianzas/Biblioteca%20de%20estilos/webparts/oferta-educativa/img/icono-listas.png) no-repeat;
+    background-size: 12px;
+    top: 5px;
+    left: 0px;
+    margin-left: -19px;
+    position: relative;
+    filter: hue-rotate(40deg);
+}
+
+.modal-title {
+    font-size: large;
+    padding-bottom: 5px;
+    font-weight: 900;
+    color: #212143;
+}
+
+.slick-dots li.slick-active button:before {
+    color: #1ba548;
+}
+
+.slick-dots li button:before {
+    color: #1ba548;
+}
